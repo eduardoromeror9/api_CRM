@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Eduardo Romero",
+      "empresa": "Facebook",
+      "email": "edu@edu.com",
+      "telefono": "37328378473",
+      "notas": "Esperando los datos de la API",
+      "id": 1
+    }
+  ]
+}
