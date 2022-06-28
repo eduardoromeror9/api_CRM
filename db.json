@@ -7,6 +7,14 @@
       "telefono": "37328378473",
       "notas": "Esperando los datos de la API",
       "id": 1
+    },
+    {
+      "nombre": "Hector",
+      "empresa": "Microsoft",
+      "email": "edu@eduardo.com",
+      "telefono": "3982309",
+      "notas": "Esperando para contactar",
+      "id": 2
     }
   ]
 }
